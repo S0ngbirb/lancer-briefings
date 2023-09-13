@@ -106,7 +106,7 @@ export default {
           "code": "8e638353-0e1c-4a08-bc71-b423d170cfb9//NDL-C-COLD-AXE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Reaction "
+          "mech": "Reaction"
         },
         {
           "callsign": "peanus",
