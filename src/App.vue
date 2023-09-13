@@ -123,6 +123,7 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Scarlet Judicator"
+           },
       ],
       "header": {
         "planet": "Hercynia",
