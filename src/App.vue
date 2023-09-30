@@ -109,20 +109,20 @@ export default {
           "mech": "Reaction"
         },
         {
-          "callsign": "peanus",
+          "callsign": "Myriad",
           "alias": "Yui Asakusa",
-          "code": "0c6a0822-fbdd-4179-a1df-3dd96c915384//NDL-C-BLIND-CAIRN",
+          "code": "0c6a0822-fbdd-4179-a1df-3dd96c915384//NDL-C-CHAIN-CRYSTAL",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Cockmasher"
+          "mech": "First"
         },
         {
-          "callsign": "Starboard",
-          "alias": "Maria",
-          "code": "4be26ce9-923b-4069-b6c9-76437d4be455///NDL-C-DEEP-STATION//056940c6-8d55-4190-8e85-57caa043cb1a",
+          "callsign": "Sliver",
+          "alias": "Turo Heitbrink",
+          "code": "7f45443a-a17a-4bd3-83ff-8afe0914aeff//NDL-C-STEEL-CASCADE",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "Scarlet Judicator"
+          "mech": "Deconstructive Notion"
            },
       ],
       "header": {
